@@ -21,6 +21,7 @@ module.exports = {
   },
 
   extends: ['plugin:vue/essential', '@vue/standard'],
+  extends: ['plugin:vue/essential', '@vue/standard'],
 
   'extends': [
     'plugin:vue/essential',
